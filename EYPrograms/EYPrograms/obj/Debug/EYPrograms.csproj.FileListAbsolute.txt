@@ -1,0 +1,11 @@
+C:\Users\labuser\source\repos\EYPrograms\EYPrograms\bin\Debug\EYPrograms.exe.config
+C:\Users\labuser\source\repos\EYPrograms\EYPrograms\bin\Debug\EYPrograms.exe
+C:\Users\labuser\source\repos\EYPrograms\EYPrograms\bin\Debug\EYPrograms.pdb
+C:\Users\labuser\source\repos\EYPrograms\EYPrograms\obj\Debug\EYPrograms.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\EYPrograms\EYPrograms\obj\Debug\EYPrograms.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\EYPrograms\EYPrograms\obj\Debug\EYPrograms.exe
+C:\Users\labuser\source\repos\EYPrograms\EYPrograms\obj\Debug\EYPrograms.pdb
+C:\Users\labuser\source\repos\EYPrograms\EYPrograms\bin\Debug\EYPrograms.exe.manifest
+C:\Users\labuser\source\repos\EYPrograms\EYPrograms\bin\Debug\EYPrograms.application
+C:\Users\labuser\source\repos\EYPrograms\EYPrograms\obj\Debug\EYPrograms.exe.manifest
+C:\Users\labuser\source\repos\EYPrograms\EYPrograms\obj\Debug\EYPrograms.application
