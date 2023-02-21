@@ -75,6 +75,8 @@
     <Compile Include="Class2.cs" />
     <Compile Include="Class3.cs" />
     <Compile Include="Class4.cs" />
+    <Compile Include="Class5.cs" />
+    <Compile Include="go.cs" />
     <Compile Include="Info.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Program2.cs" />
