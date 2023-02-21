@@ -10,11 +10,13 @@
 //            do
 //            {
 //                Console.WriteLine("Please enter your name");
-            
-//            Console.WriteLine("Please enter your roll");
-//            int roll = int.Parse(Console.ReadLine());
-           
-//            Console.ReadLine();
+//                string m = Console.ReadLine();
+//                Console.WriteLine("Please enter your roll");
+//                int R = int.Parse(Console.ReadLine());
+//                Console.WriteLine("Do you want to continue");
+//                 = Console.ReadLine();
+
+//            } while (n == "Y" || n == "y" || n == "YES" || n == "yes");
 //        }
 //    }
 //}

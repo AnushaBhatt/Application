@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EYPrograms.exe" size="5568">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EYPrograms.exe" size="5056">
       <assemblyIdentity name="EYPrograms" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tnlaGSS/EQI1IyuuI7AmAy45UXK03QiV890YYSheS7U=</dsig:DigestValue>
+        <dsig:DigestValue>/zhE2g01CBkrnEBb/+zxFhOAZN2eL3akO5DDO86F9aY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
