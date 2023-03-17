@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~\images\beauty_of_nature_17_211513.jpg</ImageUrl>
+		<NavigateUrl>C:\Users\labuser\source\repos\WebApplication3\WebApplication3\images\beauty_of_nature_17_211513.jpg</NavigateUrl>
+		<AlternateText>
+			Order flowers, roses, gifts and more
+		</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>flowers</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>~\images\forest.jpg</ImageUrl>
+		<NavigateUrl>C:\Users\labuser\source\repos\WebApplication3\WebApplication3\images\forest.jpg</NavigateUrl>
+		<AlternateText>
+			forest scenes
+		</AlternateText>
+		<Impressions>20</Impressions>
+		<Keyword>flowers</Keyword>
+	</Ad>
+	
+</Advertisements>
