@@ -1,0 +1,41 @@
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.AssemblyInfoInputs.cache
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.AssemblyInfo.cs
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.RazorAssemblyInfo.cache
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.RazorAssemblyInfo.cs
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\bin\Debug\net5.0\appsettings.json
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\bin\Debug\net5.0\MVC_Exercise 1.exe
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\bin\Debug\net5.0\MVC_Exercise 1.deps.json
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\bin\Debug\net5.0\MVC_Exercise 1.runtimeconfig.json
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\bin\Debug\net5.0\MVC_Exercise 1.runtimeconfig.dev.json
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\bin\Debug\net5.0\MVC_Exercise 1.dll
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\bin\Debug\net5.0\ref\MVC_Exercise 1.dll
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\bin\Debug\net5.0\MVC_Exercise 1.pdb
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\bin\Debug\net5.0\MVC_Exercise 1.Views.dll
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\bin\Debug\net5.0\MVC_Exercise 1.Views.pdb
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\staticwebassets\MVC_Exercise 1.StaticWebAssets.Manifest.cache
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\staticwebassets\MVC_Exercise 1.StaticWebAssets.xml
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\scopedcss\bundle\MVC_Exercise 1.styles.css
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.TagHelpers.input.cache
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.TagHelpers.output.cache
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.RazorCoreGenerate.cache
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.RazorTargetAssemblyInfo.cache
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.RazorTargetAssemblyInfo.cs
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.Views.pdb
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.dll
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\ref\MVC_Exercise 1.dll
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.pdb
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.genruntimeconfig.cache
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\MVC_Exercise 1.csproj.CopyComplete
+C:\Users\labuser\source\repos\MVC_Exercise 1\MVC_Exercise 1\obj\Debug\net5.0\Razor\Views\Student\StudentList.cshtml.g.cs
