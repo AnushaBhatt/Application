@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="e_commerce" Class="CRUDDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=Lab-Host\SQLEXPRESS03;Initial Catalog=e_commerce;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="e_commerceConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.employeee" Member="employeees">
+    <Type Name="employeee">
+      <Column Name="empid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="empname" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+      <Column Name="empsal" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

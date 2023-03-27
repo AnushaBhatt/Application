@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "display";
+}
+
+<h2>display</h2>
+
+<div>
+    <h4>employee details</h4>
+
+    @foreach (employeee s in ViewBag.result)
+            {
+                <p>@s.empname</p>
+
+
+            }
+    <hr/>
+</div>
