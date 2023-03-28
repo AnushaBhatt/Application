@@ -1,0 +1,12 @@
+C:\Users\labuser\source\repos\Console4_DatabaseApproach\Console4_DatabaseApproach\bin\Debug\Console4_DatabaseApproach.exe.config
+C:\Users\labuser\source\repos\Console4_DatabaseApproach\Console4_DatabaseApproach\bin\Debug\Console4_DatabaseApproach.exe
+C:\Users\labuser\source\repos\Console4_DatabaseApproach\Console4_DatabaseApproach\bin\Debug\Console4_DatabaseApproach.pdb
+C:\Users\labuser\source\repos\Console4_DatabaseApproach\Console4_DatabaseApproach\bin\Debug\EntityFramework.dll
+C:\Users\labuser\source\repos\Console4_DatabaseApproach\Console4_DatabaseApproach\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\labuser\source\repos\Console4_DatabaseApproach\Console4_DatabaseApproach\bin\Debug\EntityFramework.xml
+C:\Users\labuser\source\repos\Console4_DatabaseApproach\Console4_DatabaseApproach\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\labuser\source\repos\Console4_DatabaseApproach\Console4_DatabaseApproach\obj\Debug\Console4_DatabaseApproach.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\Console4_DatabaseApproach\Console4_DatabaseApproach\obj\Debug\Console4_DatabaseApproach.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\Console4_DatabaseApproach\Console4_DatabaseApproach\obj\Debug\Console4_DatabaseApproach.csproj.CopyComplete
+C:\Users\labuser\source\repos\Console4_DatabaseApproach\Console4_DatabaseApproach\obj\Debug\Console4_DatabaseApproach.exe
+C:\Users\labuser\source\repos\Console4_DatabaseApproach\Console4_DatabaseApproach\obj\Debug\Console4_DatabaseApproach.pdb
